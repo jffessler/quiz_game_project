@@ -59,7 +59,7 @@ def quiz_game():
                 continue
             else:
                 break
-        print("Thank you for playing!")
+    print("Thank you for playing!")
 
 
 quiz_game()
